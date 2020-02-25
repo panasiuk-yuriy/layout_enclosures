@@ -3,24 +3,22 @@ body {
   margin: 0;
 }
 
-.box-pad {
+.allbox {
   padding: 10px;
+  border: 1px solid #e75551;
 }
 
 .outer-box {
   width: 350px;
   background-color: #308dc0;
-  border: 1px solid #e75551;
   margin: 20px 20px 40px;
   box-sizing: border-box;
 }
 
 .middle-box {
   background-color: #ffa500;
-  border: 1px solid #e75551;
 }
 
 .internal-box {
   background-color: #ddd;
-  border: 1px solid #e75551;
 }
